@@ -96,7 +96,7 @@ Below is my breakdown of each plot from the notebook, along with its interpretat
 
 ### **Cell 28: Best Bowlers (Wickets)**
 
-![alt text](../figures/ipl2022_best_bowlers.png)
+![alt text](figures/ipl2022_Best_Bowlers.png)
 
 * 🤔 **Interpretation:** This plot ranks bowlers by the total number of wickets taken. Top bowlers include **Yuzvendra Chahal, Jasprit Bumrah,** and **Rashid Khan**.
 * 🎯 **Confidence:** Medium 🟡

@@ -88,7 +88,7 @@ jupyter notebook IPL_2022_Plots.ipynb
 - Python 3.8 or higher
 - Git
 - Required Python packages (specified in requirements.txt)
-```
+
 
 ## 📋 Generated Reports
 - 📊 Detailed visualizations in `/figures`
